@@ -1,7 +1,7 @@
 # Fresh_vs_Rotten
-# 🎉 Exciting News! 🎉 
+# Exciting News! 🎉 
  
-I am thrilled to announce a major milestone in academic I have successfully published my research paper in the 4th IEEE International Conference, International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)!✨
+I am thrilled to announce a major milestone in academic I have successfully published my research paper in the 4th IEEE International Conference, International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)!
 
 My paper, centered around "Classification of Rotten Fruits vs Fresh Fruits Using Sequential Model with Convolutional Neural Network," reflects my dedication and expertise in this fascinating field. Thrilled to contribute to the intersection of technology and agriculture, paving the way for a smarter and more efficient approach to fruit quality assessment. 🔗 
 
@@ -12,21 +12,21 @@ The entire process, from research to writing and submission, was both challengin
 IEEE Paper Link: https://lnkd.in/dxiSgriG
 Conference Link: https://lnkd.in/d8nvrHvQ 
 
-# 🍎 Freshify - Fresh vs Rotten Fruit Classification using CNN
+#  Freshify - Fresh vs Rotten Fruit Classification using CNN
 
 A deep learning-based image classification system that detects whether a fruit (apple, banana, or orange) is fresh or rotten using Convolutional Neural Networks (CNN). This project demonstrates the power of computer vision in agricultural and supply chain automation.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 - **Goal:** Classify fruit images as *fresh* or *rotten* using a CNN model.
-- **Dataset:** ~13,599 images from Kaggle (apples, bananas, oranges — fresh & rotten).
+- **Dataset:** ~13,599 images (apples, bananas, oranges — fresh & rotten).
 - **Approach:** Preprocess images → Augment data → Train CNN → Evaluate accuracy.
 
 ---
 
-## 🧪 Dataset
+##  Dataset
 
 - **Source:** [Kaggle - Rotten vs Fresh Fruits Dataset](https://www.kaggle.com/datasets)
 - **Categories:**  
@@ -47,7 +47,7 @@ A deep learning-based image classification system that detects whether a fruit (
 
 ---
 
-## 🧼 Preprocessing Steps
+##  Preprocessing Steps
 
 - Image resizing  
 - Normalization  
@@ -56,7 +56,7 @@ A deep learning-based image classification system that detects whether a fruit (
 
 ---
 
-## 🧠 CNN Model Architecture
+##  CNN Model Architecture
 
 - **Conv2D + ReLU** layers for feature extraction  
 - **MaxPooling2D** for spatial downsampling  
@@ -66,7 +66,7 @@ A deep learning-based image classification system that detects whether a fruit (
 
 ---
 
-## 🎯 Results
+##  Results
 
 | Metric     | Value     |
 |------------|-----------|
@@ -81,14 +81,14 @@ A deep learning-based image classification system that detects whether a fruit (
 
 ---
 
-## 📊 Sample Predictions
+##  Sample Predictions
 
 - ✅ Fresh Banana → Classified correctly  
 - ❌ Rotten Orange → Misclassified as Fresh (example for error analysis)
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 ```plaintext
 
 FreshVsRotten/
@@ -100,13 +100,13 @@ FreshVsRotten/
 └── requirements.txt        # Dependencies
 ```
 
-## 📌 Conclusion
+##  Conclusion
 
 The model achieved **98.79% accuracy**, showing its robustness in classifying fresh and rotten fruits. It demonstrates the potential of CNNs in solving real-world agricultural quality control problems.
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Deploy the model as a web or mobile app for real-time detection  
 - Expand to more fruit types and include degree-of-ripeness classification  
