@@ -28,7 +28,7 @@ A deep learning-based image classification system that detects whether a fruit (
 
 ##  Dataset
 
-- **Source:** [Kaggle - Rotten vs Fresh Fruits Dataset](https://www.kaggle.com/datasets)
+- **Source:**  Real Images + [Kaggle - Rotten vs Fresh Fruits Dataset](https://www.kaggle.com/datasets)
 - **Categories:**  
   - Fresh Apple, Banana, Orange  
   - Rotten Apple, Banana, Orange  
